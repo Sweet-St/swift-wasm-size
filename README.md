@@ -1,4 +1,5 @@
 1.
+Swift version 5.11-dev
 
 sudo apt install wabt binaryen
 
